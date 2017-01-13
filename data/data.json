@@ -1,0 +1,31 @@
+{
+  "content": [
+    {
+      "title": "Android",
+      "price": "200 VND",
+      "img" : "../images/MCD-Voyager-2.png"
+    },{
+      "title": "OZhe",
+      "price": "100 VND",
+      "img" : "../images/MCD-Voyager-2.png"
+
+    },{
+      "title": "Book",
+      "price": "1000 VND",
+      "img" : "../images/MCD-Voyager-2.png"
+    },{
+      "title": "Apple",
+      "price": "100 VND",
+      "img" : "../images/MCD-Voyager-2.png"
+
+    },{
+      "title": "Store",
+      "price": "200 VND",
+      "img" : "../images/MCD-Voyager-2.png"
+    },{
+      "title": "OZZ",
+      "price": "500 VND",
+      "img" : "../images/MCD-Voyager-2.png"
+    }
+  ]
+}
